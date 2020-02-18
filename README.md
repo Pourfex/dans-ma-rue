@@ -387,14 +387,14 @@ doit produire le résultat suivant :
 Dans Kibana, créez un dashboard qui permet de visualiser :
 
 * Le nombre total d'anomalies
-* Un histogramme de date des anomalies réparties par arrondissement
+* Un histogramme des anomalies réparties par arrondissement
 * Un camembert avec le top 5 des types d'anomalies
 * Une carte (de type heatmap) de l'ensemble des anomalies
 
 Faites une capture d'écran du dashboard et ajoutez le au dépôt afin qu'il soit visible dans ce readme :
 
-![](https://via.placeholder.com/800x600.png?text=Votre+Dashboard+Ici)
+![Dashboard crée avec Kibana pour la collection de donnée DansMaRue](DashBoardDansMaRue.png)
 
-## Pour rendre le travail
+## Pour rendre le travail  
 
 Une fois l'ensemble du code complété et le dashboard ajouté, faites une Pull Request !
