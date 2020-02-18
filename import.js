@@ -73,7 +73,7 @@ async function run () {
         });
 }
 
-// Fonction utilitaire permettant de formatter les données pour l'insertion "bulk" dans elastic
+// utility fonction that create the bulk request body on a given samples of offenses
 function createBulkInsertQuery(offenses) {
 
     //here we create the body we need to insert data in elastic with the data we created before.
